@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudia</h1>
-<h3 align="center">💛A passionate developer from Guadeloupe💛</h3>
+<h3 align="center">💛A passionate concepteur designer UI from Guadeloupe💛</h3>
 
 - 🔭 I’m currently working on **a online resume**
 
